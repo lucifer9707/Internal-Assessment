@@ -15,4 +15,8 @@ document.getElementById('addBtn').addEventListener('click',
         taskList.appendChild(li);
         taskInput.value = '';
     }
+
+    
 });
+
+

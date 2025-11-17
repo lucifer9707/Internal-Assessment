@@ -9,7 +9,7 @@ body{
 
 #container {
     text-align: center;
-    
+
 }
 
 input {
@@ -19,7 +19,4 @@ input {
 button {
     padding: 10px;
 }
-#result {
-    margin-top: 20px;
-    font-weight: bold;
-}
+
