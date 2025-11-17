@@ -1,0 +1,25 @@
+body{
+    color: #090909;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#container {
+    text-align: center;
+    
+}
+
+input {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+}
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
